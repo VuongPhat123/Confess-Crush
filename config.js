@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'nha nha nha',
     btnYes: 'đồng ý luoongg <3',
     btnNo: 'Không nha :3',
-    question: 'Bà biết tại sao tui muốn dậy hong:)),
+    question: 'Bà biết tại sao tui muốn dậy hong:))',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Hì hong có lí do nào đâu mà bấm :)))',
     mess: 'hihi dậy cùng đón nhiều cái lễ nữa nữa nha <33',
